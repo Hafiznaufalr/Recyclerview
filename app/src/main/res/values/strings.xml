@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="app_namee">M-Pet</string>
+    <string name="app_name2">Pet Shop</string>
+    <string name="app_name3">Pet Care</string>
+    <string name="app_name4">Tips</string>
+    <string name="app_name5">Rujukan</string>
+    <string name="app_name6">Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="api_key_android"></string>
+
+</resources>
